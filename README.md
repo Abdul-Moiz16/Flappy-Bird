@@ -1,1 +1,1 @@
-Simple Flappy Bird game using java and jawa swing!
+Simple Flappy Bird game using java and java swing!
